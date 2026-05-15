@@ -20,4 +20,3 @@
 - :penguin: Slackware<br>
 - :star2: KISS (“Keep it simple, stupid“)<br>
 - :star: “An idiot admires complexity, a genius admires simplicity“ ― Terry Davis<br>
-- :star: “If you can't explain it simply, you don't understand it well enough.“ — Albert Einstein<br>
