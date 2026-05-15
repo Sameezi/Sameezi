@@ -18,5 +18,4 @@
 <h2>- 🎓 IT student<br>
 - 📓 Low-level programming<br>
 - :penguin: Slackware<br>
-- :star2: KISS (“Keep it simple, stupid“)<br>
-- :star: “An idiot admires complexity, a genius admires simplicity“ ― Terry Davis<br>
+- :star2: KISS (“Keep it simple, stupid“)
