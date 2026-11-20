@@ -15,7 +15,7 @@
 <br />YMMMUP^                   ,
 <br /> ^^<br />          
 
-<h2>- 🎓 IT student<br>
 - 📓 Low-level programming<br>
-- :penguin: Slackware<br>
+- 📓 Linux gaming<br>
+- 📓 Graphics programming<br>
 - :star2: KISS (“Keep it simple, stupid“)
